@@ -2,10 +2,9 @@
 
 # Usage: 
 Enter values for string and verbose, then run program in command line: `python LTS.py`
-'''
 
-if verbose = True, output includes F and D matrices for all 0<k<n+1
-else, if verbose = False, output only A matrix
+> if verbose = True, output includes F and D matrices for all 0<k<n+1
+> else, if verbose = False, output only A matrix
 
 
 This implementation is based on the algorithm described in Adrian Kosowski's 2004 paper. 

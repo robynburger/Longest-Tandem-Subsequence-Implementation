@@ -2,6 +2,7 @@
 
 # Usage: 
 Enter values for string and verbose, then run program in command line: `python LTS.py`
+
 Note: if verbose = True, output includes F and D matrices for all 0 < k < n+1. Otherwise, output only A matrix.
 
 
